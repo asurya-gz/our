@@ -1,0 +1,52 @@
+body {
+     width: 736px;
+     margin: 10px auto;
+     border: 2px solid black;
+     background: linear-gradient(45deg, #992ad5, #1d81cd);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-attachment: fixed;
+     height: 100%;
+}
+
+/* Bagian Navbar YgY! */
+a{
+    text-decoration: none; 
+    font-size: 20px;
+    padding: 14px 10px;
+    font-family: 'Russo One', sans-serif;
+}
+
+ul{
+    padding: 14px}
+
+li{
+    list-style: none; 
+    display: inline;}
+
+li a{
+    background: #222; 
+    color:#d4d4d4;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Lobster', cursive;
+}
+
+li a:hover{
+    background: #4da4ff; 
+    color:#fff;}
+
+.satu{
+    background: #222; 
+    height: 55px;
+}
+
+.judul{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-family: 'The Nautigal', cursive;
+}
+
+.desc {
+    font-family: 'Courier New', Courier, monospace;
+}
